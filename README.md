@@ -2,22 +2,23 @@
 
 ## About
 
-This repository serves as an index for my penetration testing portfolio.
+This repository is an index for my penetration testing portfolio.
 
-Due to the large size of the reports, supporting files, screenshots, and lab documentation, all penetration testing projects are maintained in the following Google Drive folder:
+The full portfolio, with complete write-ups, screenshots of every step, and project reports, now lives here:
 
 **Portfolio:**
-https://drive.google.com/drive/u/0/folders/18Wr21uhRQ2dOH0Cuj9p7oJR9he5IAsiA
+https://github.com/MohamedELDamerdash/security-writeups
 
 ## Portfolio Includes
 
-* Web Application Penetration Testing
+* Web Application Penetration Testing (SQL injection, JWT, SSTI, OAuth, HTTP request smuggling)
 * OWASP Top 10 Assessments
-* Active Directory Security Labs
 * Android Application Security Assessments
+* Threat Modeling and Risk Analysis
+* OS Hardening (NIST 800-53)
+* Static Code Analysis (SAST)
 * Network Security Assessments
 * Vulnerability Assessment Reports
-* Security Testing Documentation
 * Remediation Recommendations
 
 ## Note
